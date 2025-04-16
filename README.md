@@ -1,4 +1,4 @@
-Dynamic Blog Website
+Dynamic Blog Website:
 A full-stack blogging platform that enables users to create, publish, and engage with blog posts across various topics like lifestyle, technology, and education. This project was developed as part of a Software Development Internship at Workcohol Solutions Pvt Ltd.
 
 Project Overview:
@@ -47,12 +47,12 @@ Mobile App version
 Push/email notifications
 Enhanced real-time analytics
 
-Authors
+Authors:
 S Mithun Aananda
 R J Sharin
 Developed during our internship at Workcohol Solutions Pvt Ltd (Jan 2025 – Mar 2025)
 
-Resources
+Resources:
 Django Docs
 MySQL Docs
 Bootstrap
