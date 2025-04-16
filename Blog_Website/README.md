@@ -1,18 +1,19 @@
-Blogs Website
-Description
-The Blogs Website is a platform designed for users to create and share blog posts on various topics, ranging from lifestyle and technology to personal experiences. It provides users with an intuitive interface to publish articles, engage with readers through comments, and discover insightful content on a variety of subjects. Whether you're an aspiring writer or an experienced blogger, this platform serves as a space to express ideas, share knowledge, and connect with like-minded individuals.
+Dynamic Blog Website: A full-stack blogging platform that enables users to create, publish, and engage with blog posts across various topics like lifestyle, technology, and education. This project was developed as part of a Software Development Internship at Workcohol Solutions Pvt Ltd.
 
-Features
-User Authentication: Register and log in to manage blog posts and comments.
+Project Overview: The Blogs Website is a responsive and feature-rich platform built with a focus on simplicity, scalability, and user engagement. It provides a seamless user experience for both content creators and readers.
 
-Blog Creation: Create and publish articles with a rich text editor.
+Features: User Authentication: Registration, login/logout, password recovery, and role-based access. Blog Management: Create, edit, delete, and publish blogs with rich-text editor and image uploads. User Interaction: Like, comment, share blogs; follow/unfollow authors. Search & Discovery: Advanced search with keyword and tag-based filtering. Responsive Design: Fully mobile-friendly layout using Bootstrap. Admin Panel: Manage users, moderate content, and view analytics. Notifications: Real-time alerts for authors when their content receives engagement.
 
-Comment Section: Engage with readers through comments on blog posts.
+Tech Stack: Frontend: HTML, CSS, JavaScript, Bootstrap Backend: Python (Django) Database: MySQL Version Control: Git & GitHub Deployment: Heroku / AWS
 
-Categories: Organize posts into various categories (e.g., Lifestyle, Technology, Health, etc.).
+Architecture: A three-tier architecture was used: Presentation Layer – Frontend interface for user interaction. Application Layer – Backend business logic using Django. Data Layer – MySQL database for persistent storage.
 
-Search Functionality: Find blog posts based on keywords, topics, or authors.
+Modules Breakdown: Authentication System Blog CRUD Operations Comments and Likes Profile Management Search and Filter Admin Analytics Dashboard
 
-Responsive Design: Optimized for viewing on both desktop and mobile devices.
+Outcomes & Learnings: Developed a modular, scalable, and secure blogging platform. Implemented user roles and access control. Learned full-stack integration and deployment strategies. Practiced secure coding practices and responsive design.
 
-Admin Panel: Admins can manage users, posts, and comments etc...
+Future Enhancements: ML-based content recommendations Multi-language support Mobile App version Push/email notifications Enhanced real-time analytics
+
+Authors: S Mithun Aananda R J Sharin Developed during our internship at Workcohol Solutions Pvt Ltd (Jan 2025 – Mar 2025)
+
+Resources: Django Docs MySQL Docs Bootstrap
